@@ -41,7 +41,7 @@ To assess the performance of the machine learning models, the following evaluati
 
 ### Hyperparameter Tuning
 
-Fine-tuning the model parameters is crucial for achieving optimal performance.
+Fine-tuning the model parameters is crucial for achieving better performances.
 
 1. **Grid Search**
 
